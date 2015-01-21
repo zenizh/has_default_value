@@ -1,0 +1,5 @@
+en:
+  activerecord:
+    defaults:
+      user:
+        name: no name
