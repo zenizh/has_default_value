@@ -1,5 +1,8 @@
 # has_default_value
 
+[![Build Status](https://travis-ci.org/kami30k/has_default_value.svg)](https://travis-ci.org/kami30k/has_default_value)
+[![Gem Version](https://badge.fury.io/rb/has_default_value.svg)](http://badge.fury.io/rb/has_default_value)
+
 has_default_value sets default value to Rails application's ActiveRecord model **without saved**.
 
 The default value set with I18n.
